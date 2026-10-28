@@ -7,17 +7,9 @@
   "repository": "https://github.com/Deeplearn-PeD/epidbot-geolibre-plugin",
   "issues": "https://github.com/Deeplearn-PeD/epidbot-geolibre-plugin/issues",
   "license": "MIT",
-  "categories": [
-    "Data",
-    "Visualization",
-    "Analysis"
-  ],
+  "categories": ["Data", "Visualization", "Analysis"],
   "minGeoLibreVersion": "3.5.0",
-  "publishableSettings": [
-    "settings",
-    "sessionId",
-    "resultLayers"
-  ],
+  "publishableSettings": ["settings", "sessionId", "resultLayers"],
   "manifestUrl": "plugins/epidbot/plugin.json",
   "source": {
     "url": "https://github.com/Deeplearn-PeD/epidbot-geolibre-plugin/releases/download/v0.2.1/epidbot-0.2.1.zip",
